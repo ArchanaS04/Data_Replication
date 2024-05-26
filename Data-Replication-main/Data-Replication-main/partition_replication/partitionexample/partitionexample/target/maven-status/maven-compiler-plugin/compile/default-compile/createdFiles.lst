@@ -1,0 +1,6 @@
+com\example\partition\partitionexample\Employee.class
+com\example\partition\partitionexample\JSONUtils.class
+com\example\partition\partitionexample\EmployeeController.class
+com\example\partition\partitionexample\ReplicateDataService.class
+com\example\partition\partitionexample\ReplicationNode.class
+com\example\partition\partitionexample\PartitionexampleApplication.class
